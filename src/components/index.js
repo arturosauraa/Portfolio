@@ -1,0 +1,7 @@
+export { Header } from'./header/Header'
+export { Education } from './education/Education'
+export { Bio } from'./bio/Bio'
+export { Expierence } from'./expierence/Expierence'
+export { Skill } from'./skill/Skill'
+export { Language } from'./language/Language'
+export { Footer } from'./footer/Footer'
